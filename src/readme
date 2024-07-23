@@ -1,0 +1,1 @@
+This project is a web-based mailing application that allows users to send emails easily. To get started, clone the repository and navigate to the project directory. Run npm install to install all necessary dependencies, and then start the development server with npm run dev. This will set up the application for local testing and use.
